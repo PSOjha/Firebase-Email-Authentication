@@ -3,7 +3,7 @@ In this application i have implemented firebase email authentication system. whe
 
 ## Features
 1. Create New account with email
-Saved user Data with FireStore
+2. Saved user Data with FireStore
 Forgot Password options
 Verify User Email
 
