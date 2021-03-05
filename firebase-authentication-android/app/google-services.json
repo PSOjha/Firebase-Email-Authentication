@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338161794521",
+    "project_id": "authenticatorappemail",
+    "storage_bucket": "authenticatorappemail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338161794521:android:130f6f26b961d8c7162dc8",
+        "android_client_info": {
+          "package_name": "net.apso.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338161794521-qphj8am65lhipd9qb5roao5i8r4rsrre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKvEcBmA9LYonUZplPfUirAWpH4Oc8FDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338161794521-qphj8am65lhipd9qb5roao5i8r4rsrre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
