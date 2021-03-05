@@ -23,8 +23,14 @@ Not able to carry this project anymore, but anybody who wanted to work on this p
 I am attaching images with this, if you like then do try it....
 
 
-### Screenshots of Apk
+### Screenshots of Application
 
 | Login UI                               | Registration UI                                     | Profile UI                                     |
 |:------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
 <img src="Register.jpg" width="200">|<img src="login.jpg" width="200">| <img src="profile.jpg" width="200"> |
+
+
+### Screenshot of Firebase Authrntication with Firestore User's Data
+<img src="auth data.PNG">
+
+<img src="firestore User.PNG">
