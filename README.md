@@ -6,3 +6,5 @@ Create New account with email
 Saved user Data with FireStore
 Forgot Password options
 Verify User Email
+
+# This android app source code is provided for the Video Tutorial Series on youtube channel (Own Coding) You can watch Full tutorial series here.
