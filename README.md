@@ -5,6 +5,6 @@ In this application i have implemented firebase email authentication system. whe
 1. Create New account with email
 2. Saved user Data with FireStore
 3. Forgot Password options
-Verify User Email
+4. Verify User Email
 
 #### This android app source code is provided for the Video Tutorial Series on youtube channel (Own Coding) You can watch Full tutorial series here.
