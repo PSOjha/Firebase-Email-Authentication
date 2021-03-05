@@ -15,6 +15,9 @@ In this application i have implemented firebase email authentication system. whe
 
 
 Implementation Guide
-1 - Project
-1 - Open the Project in your android studio;
-2 - IMPORTANT Change the Package Name. (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+
+1. Open the Project in your android studio;
+2. IMPORTANT Change the Package Name. (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+
+Not able to carry this project anymore, but anybody who wanted to work on this project can do happily.
+I am attaching images with this, if you like then do try it....
